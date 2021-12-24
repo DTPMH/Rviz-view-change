@@ -9,6 +9,7 @@
 4. catkin_make
 5. rosrun change-view change-view  
 **ubuntu16.04教程**    
-git@github.com:ros-gbp/rviz_animated_view_controller-release.git    
+git@github.com:ros-gbp/rviz_animated_view_controller-release.git   
+https://github.com/ros-gbp/rviz_animated_view_controller-release.git   
 **教程**      
 TODO
